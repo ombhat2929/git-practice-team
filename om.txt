@@ -1,4 +1,8 @@
 Hello
 This is OM
 Git practice
+<<<<<<< HEAD
 Main branch change
+=======
+Learning Merge Conflict
+>>>>>>> conflict_branch
